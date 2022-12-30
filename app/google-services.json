@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486902815587",
+    "project_id": "collegepro-a65b0",
+    "storage_bucket": "collegepro-a65b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486902815587:android:1c11c0ee212b03a5679156",
+        "android_client_info": {
+          "package_name": "com.example.cproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486902815587-v2pbsjcvek7tf2tafleaik5mr1i5v325.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cproject",
+            "certificate_hash": "00e0fb729083d65db3b6c4fc1fc5931df9af46fd"
+          }
+        },
+        {
+          "client_id": "486902815587-07fbe8ldviceetqr5bc3tqhncsq0b9tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgkQf1TBychNZVEViOow4tNSc-cjwyTLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486902815587-07fbe8ldviceetqr5bc3tqhncsq0b9tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
